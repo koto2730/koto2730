@@ -46,6 +46,7 @@
 
 | Icon | App Name & Links | Technical Highlights (EN / JP) | Year |
 | :--- | :--- | :--- | :--- |
+| <img src="./images/app_icons/localnode_icon.png" width="70"> | **LocalNode**<br>[iOS](https://apps.apple.com/us/app/localnode/id6757170614) / [Android](https://play.google.com/store/apps/details?id=com.ictglab.localnode) / [Repo](https://github.com/koto2730/localnode) | **Seamless file sharing across Mobile and PC.** スマホ・PC間を自由につなぐ、OSを問わないファイル共有ツール。 | 2026 |
 | <img src="./images/app_icons/flowcards_icon.png" width="70"> | **FlowCards**<br>[iOS](https://apps.apple.com/us/app/flowcards/id6751177827) / [Android](https://play.google.com/store/apps/details?id=com.flowcards) / [Repo](https://github.com/koto2730/flowcards) | **Full-featured organizer with Obsidian sync.**<br>本格的な情報整理ツール。Obsidian連携機能を搭載。 | 2025 |
 | <img src="./images/app_icons/floodoflights_icon.png" width="70"> | **Flood Of Lights.**<br>[iOS](https://apps.apple.com/jp/app/flood-of-lights/id1523192881) / [Android](https://play.google.com/store/apps/details?id=com.mugime.floodoflights) | **Visual effects using Shaders in React-Native.**<br>React-Nativeでのシェーダー利用に挑戦したリラックスアプリ。 | 2021 |
 | <img src="./images/app_icons/conceptmaker_icon.png" width="70"> | **コンセプトメイカー**<br>[iOS](https://apps.apple.com/jp/app/concept-maker/id1563537804) / [Android](https://play.google.com/store/apps/details?id=com.mugime.conceptmaker) | **Idea generation tool created before the AI era.**<br>生成AI流行以前に、着想を支援するために設計したツール。 | 2022 |
@@ -60,7 +61,6 @@
 
 - 📝 **[のんびり開発日記 (Blog)](https://koto2730.github.io/nonbiri-dev-log/)** - 開発のプロセスや学びを記録しています。
 - 📦 **[pymemo](https://github.com/koto2730/pymemo)** - 20年以上前に業務とは別に個人開発していたPythonコードを公開。エンジニアとしての足跡です。
-- 🔄 **[LocalNode](https://github.com/koto2730/localnode)** - ローカルデバイス間のファイル同期アプリ（現在AIを駆使して開発中）。
 
 ---
 
